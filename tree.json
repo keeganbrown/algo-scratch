@@ -1,0 +1,2191 @@
+[
+  {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267065,
+                            "name": "101",
+                            "elementStandardFlag": true,
+                            "description": "Mobilize",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.1.267065",
+                          "standardBreakdownId": "GAS_1.1.1.2.1.27327",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267053,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267064,
+                            "name": "102",
+                            "elementStandardFlag": true,
+                            "description": "Outage Prep",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.1.267064",
+                          "standardBreakdownId": "GAS_1.1.1.2.1.27326",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267052,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267063,
+                        "name": "1",
+                        "elementStandardFlag": true,
+                        "description": "MOBILIZATION / OUTAGE PREP",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.1.2.1",
+                      "standardBreakdownId": "GAS_1.1.1.2.1",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267051,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267068,
+                            "name": "103",
+                            "elementStandardFlag": true,
+                            "description": "Remove Piping",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267068",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27330",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267056,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267069,
+                            "name": "104",
+                            "elementStandardFlag": true,
+                            "description": "Remove Fuel Nozzles / End Covers",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267069",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27331",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267057,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267070,
+                            "name": "105",
+                            "elementStandardFlag": true,
+                            "description": "Remove Inner Combustion Components",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267070",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27332",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267058,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267067,
+                            "name": "112",
+                            "elementStandardFlag": true,
+                            "description": "Remove roof blowers, piping, wiring & roof",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267067",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27329",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267055,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267071,
+                            "name": "113",
+                            "elementStandardFlag": true,
+                            "description": "Remove Turbine Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267071",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27333",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267059,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267072,
+                            "name": "114",
+                            "elementStandardFlag": true,
+                            "description": "Remove 1st Stage Nozzle",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267072",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27334",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267060,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267073,
+                            "name": "115",
+                            "elementStandardFlag": true,
+                            "description": "Remove Stage 2, 3 Nozzle Segments",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267073",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27335",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267061,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267074,
+                            "name": "116",
+                            "elementStandardFlag": true,
+                            "description": "Remove Stage 1, 2, 3 Shroud Segments",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267074",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27336",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267062,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267075,
+                            "name": "117",
+                            "elementStandardFlag": true,
+                            "description": "Remove Stage 1, 2, 3 Buckets",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267075",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27337",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267063,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267076,
+                            "name": "130",
+                            "elementStandardFlag": true,
+                            "description": "Remove Turbine Compartment Walls",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267076",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27338",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267064,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267077,
+                            "name": "131",
+                            "elementStandardFlag": true,
+                            "description": "Perform Rotor Position Checks",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267077",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27339",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267065,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267078,
+                            "name": "132",
+                            "elementStandardFlag": true,
+                            "description": "Disassemble Load Coupling",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267078",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27340",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267066,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267079,
+                            "name": "133",
+                            "elementStandardFlag": true,
+                            "description": "Remove Inlet Bellmouth Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267079",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27341",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267067,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267080,
+                            "name": "134",
+                            "elementStandardFlag": true,
+                            "description": "Remove Compressor Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267080",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27342",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267068,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267081,
+                            "name": "135",
+                            "elementStandardFlag": true,
+                            "description": "Remove CDC",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267081",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27343",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267069,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267082,
+                            "name": "136",
+                            "elementStandardFlag": true,
+                            "description": "Remove Exhaust Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267082",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27344",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267070,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267083,
+                            "name": "137",
+                            "elementStandardFlag": true,
+                            "description": "Record Opening Clearances",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267083",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27345",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267071,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267084,
+                            "name": "138",
+                            "elementStandardFlag": true,
+                            "description": "Remove T1 and Thrust Bearings",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267084",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27346",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267072,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267085,
+                            "name": "139",
+                            "elementStandardFlag": true,
+                            "description": "Remove T2 Bearing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267085",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27347",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267073,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267086,
+                            "name": "140",
+                            "elementStandardFlag": true,
+                            "description": "Remove Rotor",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.2.267086",
+                          "standardBreakdownId": "GAS_1.1.1.2.2.27348",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267074,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267066,
+                        "name": "2",
+                        "elementStandardFlag": true,
+                        "description": "DISASSEMBLY",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.1.2.2",
+                      "standardBreakdownId": "GAS_1.1.1.2.2",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267054,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267088,
+                            "name": "106",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Inspect Combustion Components",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267088",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27354",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267076,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267089,
+                            "name": "119",
+                            "elementStandardFlag": true,
+                            "description": "Visually Inspect Turbine Components",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267089",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27356",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267077,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267090,
+                            "name": "120",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Visually Inspect Rotor Wheel Slots",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267090",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27357",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267078,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267091,
+                            "name": "121",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Visually Inspect Turbine Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267091",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27358",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267079,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267092,
+                            "name": "122",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Visually Inspect IGV's",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267092",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27359",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267080,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267093,
+                            "name": "141",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Visually Inspect T1 and Thrust Bearings",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267093",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27360",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267081,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267094,
+                            "name": "142",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Visually Inspect T2 Bearing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267094",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27361",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267082,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267095,
+                            "name": "143",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Inspect Rotor",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267095",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27362",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267083,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267096,
+                            "name": "144",
+                            "elementStandardFlag": true,
+                            "description": "Visually Inspect Inlet Keyway, XP Joint, Duct",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267096",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27363",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267084,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267097,
+                            "name": "145",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Inspect Inlet & Exhaust Casings",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.3.267097",
+                          "standardBreakdownId": "GAS_1.1.1.2.3.27364",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267085,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267087,
+                        "name": "3",
+                        "elementStandardFlag": true,
+                        "description": "CLEAN & INSPECT",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.1.2.3",
+                      "standardBreakdownId": "GAS_1.1.1.2.3",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267075,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267099,
+                            "name": "1000",
+                            "elementStandardFlag": true,
+                            "description": "Emergent Work Activity",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.4.267099",
+                          "standardBreakdownId": "GAS_1.1.1.2.4.27370",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267087,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267098,
+                        "name": "4",
+                        "elementStandardFlag": true,
+                        "description": "NON STANDARD",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.1.2.4",
+                      "standardBreakdownId": "GAS_1.1.1.2.4",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267086,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267102,
+                            "name": "107",
+                            "elementStandardFlag": true,
+                            "description": "Install Inner Combustion Components",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267102",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27375",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267090,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267103,
+                            "name": "108",
+                            "elementStandardFlag": true,
+                            "description": "Install Fuel Nozzles / End Covers",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267103",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27376",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267091,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267104,
+                            "name": "109",
+                            "elementStandardFlag": true,
+                            "description": "Install Piping",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267104",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27377",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267092,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267101,
+                            "name": "123",
+                            "elementStandardFlag": true,
+                            "description": "Install Stage 1, 2, 3 Buckets",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267101",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27374",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267089,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267105,
+                            "name": "124",
+                            "elementStandardFlag": true,
+                            "description": "Set and Install Stage 1, 2, 3 Shroud Segments",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267105",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27378",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267093,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267106,
+                            "name": "125",
+                            "elementStandardFlag": true,
+                            "description": "Install Stage 2, 3 Nozzle Segments",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267106",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27379",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267094,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267107,
+                            "name": "126",
+                            "elementStandardFlag": true,
+                            "description": "Install 1st Stage Nozzle",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267107",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27380",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267095,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267108,
+                            "name": "127",
+                            "elementStandardFlag": true,
+                            "description": "Perform 1st Stage Nozzle Concentricity Checks",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267108",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27381",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267096,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267109,
+                            "name": "128",
+                            "elementStandardFlag": true,
+                            "description": "Install Turbine Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267109",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27382",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267097,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267110,
+                            "name": "129",
+                            "elementStandardFlag": true,
+                            "description": "Install roof blowers, piping, wiring & roof",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267110",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27383",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267098,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267111,
+                            "name": "146",
+                            "elementStandardFlag": true,
+                            "description": "Install Rotor",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267111",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27384",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267099,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267112,
+                            "name": "147",
+                            "elementStandardFlag": true,
+                            "description": "Assemble T2 Bearing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267112",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27385",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267100,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267113,
+                            "name": "148",
+                            "elementStandardFlag": true,
+                            "description": "Assemble T1 and Thrust Bearings",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267113",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27386",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267101,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267114,
+                            "name": "149",
+                            "elementStandardFlag": true,
+                            "description": "Verify Closing Clearances and Thrust Check",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267114",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27387",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267102,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267115,
+                            "name": "150",
+                            "elementStandardFlag": true,
+                            "description": "Install Exhaust Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267115",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27388",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267103,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267116,
+                            "name": "151",
+                            "elementStandardFlag": true,
+                            "description": "Install CDC",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267116",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27389",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267104,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267117,
+                            "name": "152",
+                            "elementStandardFlag": true,
+                            "description": "Install Compressor Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267117",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27390",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267105,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267118,
+                            "name": "153",
+                            "elementStandardFlag": true,
+                            "description": "Install Inlet Bellmouth Casing",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267118",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27391",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267106,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267119,
+                            "name": "154",
+                            "elementStandardFlag": true,
+                            "description": "Turbine Generator Alignment Checks",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267119",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27392",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267107,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267120,
+                            "name": "155",
+                            "elementStandardFlag": true,
+                            "description": "Assemble Load Coupling",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267120",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27393",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267108,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267121,
+                            "name": "156",
+                            "elementStandardFlag": true,
+                            "description": "Perform Rotor Position Checks",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267121",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27394",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267109,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267122,
+                            "name": "157",
+                            "elementStandardFlag": true,
+                            "description": "Install Turbine Compartment Walls",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.5.267122",
+                          "standardBreakdownId": "GAS_1.1.1.2.5.27395",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267110,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267100,
+                        "name": "5",
+                        "elementStandardFlag": true,
+                        "description": "REASSEMBLY",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.1.2.5",
+                      "standardBreakdownId": "GAS_1.1.1.2.5",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267088,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267124,
+                            "name": "110",
+                            "elementStandardFlag": true,
+                            "description": "Checkout / Startup",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.6.267124",
+                          "standardBreakdownId": "GAS_1.1.1.2.7.27709",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267112,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267125,
+                            "name": "111",
+                            "elementStandardFlag": true,
+                            "description": "Demobilize",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.1.2.6.267125",
+                          "standardBreakdownId": "GAS_1.1.1.2.7.27710",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267113,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267123,
+                        "name": "7",
+                        "elementStandardFlag": true,
+                        "description": "STARTUP / DEMOBILIZE",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.1.2.6",
+                      "standardBreakdownId": "GAS_1.1.1.2.7",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267111,
+                      "leaf": false
+                    }
+                  ],
+                  "element": {
+                    "id": 267062,
+                    "name": "2",
+                    "elementStandardFlag": true,
+                    "description": "DIRECT WORK SCOPE",
+                    "elementType": "STANDARDWBSELEMENT",
+                    "handler": {},
+                    "indirect": false,
+                    "hibernateLazyInitializer": {},
+                    "protected": false
+                  },
+                  "breakdownId": "CUST_1.1.1.2",
+                  "standardBreakdownId": "GAS_1.1.1.2",
+                  "treeId": 4306,
+                  "availableScopeFlag": false,
+                  "level": 4,
+                  "nodeId": 267050,
+                  "leaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267139,
+                            "name": "-1",
+                            "elementStandardFlag": true,
+                            "description": "Unapplied Indirect Labor",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267139",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27778",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267127,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267133,
+                            "name": "901",
+                            "elementStandardFlag": true,
+                            "description": "Unapplied Craft Labor",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267133",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27744",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267121,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267138,
+                            "name": "902D",
+                            "elementStandardFlag": true,
+                            "description": "Superintendent (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267138",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27770",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267126,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267137,
+                            "name": "902N",
+                            "elementStandardFlag": true,
+                            "description": "Superintendent (night shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267137",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27765",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267125,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267130,
+                            "name": "903D",
+                            "elementStandardFlag": true,
+                            "description": "GT Field Engineers (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267130",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27733",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267118,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267131,
+                            "name": "903N",
+                            "elementStandardFlag": true,
+                            "description": "GT Field Engineers (night shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267131",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27734",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267119,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267129,
+                            "name": "904D",
+                            "elementStandardFlag": true,
+                            "description": "OSR Technicians (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267129",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27729",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267117,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267128,
+                            "name": "904N",
+                            "elementStandardFlag": true,
+                            "description": "OSR Technicians (night shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267128",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27728",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267116,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267136,
+                            "name": "907D",
+                            "elementStandardFlag": true,
+                            "description": "EHS Specialist (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267136",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27758",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267124,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267134,
+                            "name": "908D",
+                            "elementStandardFlag": true,
+                            "description": "GT LES Technicians (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267134",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27745",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267122,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267135,
+                            "name": "908N",
+                            "elementStandardFlag": true,
+                            "description": "GT LES Technicians (night shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267135",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27746",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267123,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267132,
+                            "name": "925D",
+                            "elementStandardFlag": true,
+                            "description": "Startup Specialist (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.1.1.1.267132",
+                          "standardBreakdownId": "GAS_1.1.1.3.1.27738",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267120,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267127,
+                        "name": "1",
+                        "elementStandardFlag": true,
+                        "description": "INDIRECT LABOR",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": true
+                      },
+                      "breakdownId": "CUST_1.1.1.1.1",
+                      "standardBreakdownId": "GAS_1.1.1.3.1",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267115,
+                      "leaf": false
+                    }
+                  ],
+                  "element": {
+                    "id": 267126,
+                    "name": "3",
+                    "elementStandardFlag": true,
+                    "description": "INDIRECT SUPPORT",
+                    "elementType": "STANDARDWBSELEMENT",
+                    "handler": {},
+                    "indirect": false,
+                    "hibernateLazyInitializer": {},
+                    "protected": true
+                  },
+                  "breakdownId": "CUST_1.1.1.1",
+                  "standardBreakdownId": "GAS_1.1.1.3",
+                  "treeId": 4306,
+                  "availableScopeFlag": false,
+                  "level": 4,
+                  "nodeId": 267114,
+                  "leaf": false
+                }
+              ],
+              "element": {
+                "id": 267061,
+                "name": "1",
+                "elementStandardFlag": true,
+                "description": "GAS TURBINE PURCHASE ORDER",
+                "elementType": "STANDARDWBSELEMENT",
+                "handler": {},
+                "indirect": false,
+                "hibernateLazyInitializer": {},
+                "protected": false
+              },
+              "breakdownId": "CUST_1.1.1",
+              "standardBreakdownId": "GAS_1.1.1",
+              "treeId": 4306,
+              "availableScopeFlag": false,
+              "level": 3,
+              "nodeId": 267049,
+              "leaf": false
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267144,
+                            "name": "207",
+                            "elementStandardFlag": true,
+                            "description": "Remove CE Instrumentation, Piping and Roof",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.1.267144",
+                          "standardBreakdownId": "GAS_1.1.2.2.2.27831",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267132,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267145,
+                            "name": "208",
+                            "elementStandardFlag": true,
+                            "description": "Remove CE Bearing & H2 Seals (if applicable)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.1.267145",
+                          "standardBreakdownId": "GAS_1.1.2.2.2.27832",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267133,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267146,
+                            "name": "209",
+                            "elementStandardFlag": true,
+                            "description": "Remove CE UH End Shield & Fan Blades",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.1.267146",
+                          "standardBreakdownId": "GAS_1.1.2.2.2.27833",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267134,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267143,
+                            "name": "210",
+                            "elementStandardFlag": true,
+                            "description": "Remove TE Bearing & H2 Seals (if applicable)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.1.267143",
+                          "standardBreakdownId": "GAS_1.1.2.2.2.27830",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267131,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267142,
+                        "name": "2",
+                        "elementStandardFlag": true,
+                        "description": "DISASSEMBLY",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.2.1.1",
+                      "standardBreakdownId": "GAS_1.1.2.2.2",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267130,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267149,
+                            "name": "202",
+                            "elementStandardFlag": true,
+                            "description": "Clean & Inspect Generator Components",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.2.267149",
+                          "standardBreakdownId": "GAS_1.1.2.2.3.27854",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267137,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267150,
+                            "name": "204",
+                            "elementStandardFlag": true,
+                            "description": "Generator Testing (Gen Specialist)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.2.267150",
+                          "standardBreakdownId": "GAS_1.1.2.2.3.27855",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267138,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267148,
+                            "name": "211",
+                            "elementStandardFlag": true,
+                            "description": "MAGIC Inspection",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.2.267148",
+                          "standardBreakdownId": "GAS_1.1.2.2.3.27852",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267136,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267147,
+                        "name": "3",
+                        "elementStandardFlag": true,
+                        "description": "CLEAN & INSPECT",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.2.1.2",
+                      "standardBreakdownId": "GAS_1.1.2.2.3",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267135,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267153,
+                            "name": "212",
+                            "elementStandardFlag": true,
+                            "description": "Install TE Bearing & H2 Seals (if applicable)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.3.267153",
+                          "standardBreakdownId": "GAS_1.1.2.2.5.27882",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267141,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267154,
+                            "name": "213",
+                            "elementStandardFlag": true,
+                            "description": "Install CE Fan Blades & UH End Shield",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.3.267154",
+                          "standardBreakdownId": "GAS_1.1.2.2.5.27883",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267142,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267155,
+                            "name": "214",
+                            "elementStandardFlag": true,
+                            "description": "Install CE Bearing & H2 Seals (if applicable)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.3.267155",
+                          "standardBreakdownId": "GAS_1.1.2.2.5.27884",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267143,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267152,
+                            "name": "215",
+                            "elementStandardFlag": true,
+                            "description": "Install CE Instrumentation, Piping and Roof",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.3.267152",
+                          "standardBreakdownId": "GAS_1.1.2.2.5.27881",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267140,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267151,
+                        "name": "5",
+                        "elementStandardFlag": true,
+                        "description": "REASSEMBLY",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.2.1.3",
+                      "standardBreakdownId": "GAS_1.1.2.2.5",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267139,
+                      "leaf": false
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267157,
+                            "name": "206",
+                            "elementStandardFlag": true,
+                            "description": "Air Test",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": false,
+                            "hibernateLazyInitializer": {},
+                            "protected": false
+                          },
+                          "breakdownId": "CUST_1.1.2.1.4.267157",
+                          "standardBreakdownId": "GAS_1.1.2.2.7.27903",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267145,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267156,
+                        "name": "7",
+                        "elementStandardFlag": true,
+                        "description": "STARTUP / DEMOBILIZE",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": false,
+                        "hibernateLazyInitializer": {},
+                        "protected": false
+                      },
+                      "breakdownId": "CUST_1.1.2.1.4",
+                      "standardBreakdownId": "GAS_1.1.2.2.7",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267144,
+                      "leaf": false
+                    }
+                  ],
+                  "element": {
+                    "id": 267141,
+                    "name": "2",
+                    "elementStandardFlag": true,
+                    "description": "DIRECT WORK SCOPE",
+                    "elementType": "STANDARDWBSELEMENT",
+                    "handler": {},
+                    "indirect": false,
+                    "hibernateLazyInitializer": {},
+                    "protected": false
+                  },
+                  "breakdownId": "CUST_1.1.2.1",
+                  "standardBreakdownId": "GAS_1.1.2.2",
+                  "treeId": 4306,
+                  "availableScopeFlag": false,
+                  "level": 4,
+                  "nodeId": 267129,
+                  "leaf": false
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267161,
+                            "name": "905D",
+                            "elementStandardFlag": true,
+                            "description": "GEN LES Technicians (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.2.2.1.267161",
+                          "standardBreakdownId": "GAS_1.1.2.3.2.27921",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267149,
+                          "leaf": true
+                        },
+                        {
+                          "children": [],
+                          "element": {
+                            "id": 267160,
+                            "name": "906D",
+                            "elementStandardFlag": true,
+                            "description": "GEN Field Engineers (day shift)",
+                            "elementType": "WORKPACKAGE",
+                            "handler": {},
+                            "indirect": true,
+                            "hibernateLazyInitializer": {},
+                            "protected": true
+                          },
+                          "breakdownId": "CUST_1.1.2.2.1.267160",
+                          "standardBreakdownId": "GAS_1.1.2.3.2.27935",
+                          "treeId": 4306,
+                          "availableScopeFlag": false,
+                          "level": 6,
+                          "nodeId": 267148,
+                          "leaf": true
+                        }
+                      ],
+                      "element": {
+                        "id": 267159,
+                        "name": "1",
+                        "elementStandardFlag": true,
+                        "description": "INDIRECT LABOR GEN",
+                        "elementType": "STANDARDWBSELEMENT",
+                        "handler": {},
+                        "indirect": true,
+                        "hibernateLazyInitializer": {},
+                        "protected": true
+                      },
+                      "breakdownId": "CUST_1.1.2.2.1",
+                      "standardBreakdownId": "GAS_1.1.2.3.2",
+                      "treeId": 4306,
+                      "availableScopeFlag": false,
+                      "level": 5,
+                      "nodeId": 267147,
+                      "leaf": false
+                    }
+                  ],
+                  "element": {
+                    "id": 267158,
+                    "name": "3",
+                    "elementStandardFlag": true,
+                    "description": "INDIRECT SUPPORT",
+                    "elementType": "STANDARDWBSELEMENT",
+                    "handler": {},
+                    "indirect": true,
+                    "hibernateLazyInitializer": {},
+                    "protected": true
+                  },
+                  "breakdownId": "CUST_1.1.2.2",
+                  "standardBreakdownId": "GAS_1.1.2.3",
+                  "treeId": 4306,
+                  "availableScopeFlag": false,
+                  "level": 4,
+                  "nodeId": 267146,
+                  "leaf": false
+                }
+              ],
+              "element": {
+                "id": 267140,
+                "name": "2",
+                "elementStandardFlag": true,
+                "description": "GENERATOR PURCHASE ORDER",
+                "elementType": "STANDARDWBSELEMENT",
+                "handler": {},
+                "indirect": false,
+                "hibernateLazyInitializer": {},
+                "protected": false
+              },
+              "breakdownId": "CUST_1.1.2",
+              "standardBreakdownId": "GAS_1.1.2",
+              "treeId": 4306,
+              "availableScopeFlag": false,
+              "level": 3,
+              "nodeId": 267128,
+              "leaf": false
+            }
+          ],
+          "element": {
+            "id": 267060,
+            "name": "1",
+            "elementStandardFlag": true,
+            "description": "CONSOLIDATION LEVEL",
+            "elementType": "STANDARDWBSELEMENT",
+            "handler": {},
+            "indirect": false,
+            "hibernateLazyInitializer": {},
+            "protected": false
+          },
+          "breakdownId": "CUST_1.1",
+          "standardBreakdownId": "GAS_1.1",
+          "treeId": 4306,
+          "availableScopeFlag": false,
+          "level": 2,
+          "nodeId": 267048,
+          "leaf": false
+        }
+      ],
+      "element": {
+        "id": 267059,
+        "name": "Activities_GEGT",
+        "elementStandardFlag": true,
+        "description": "Master Activity List for GE GAS and GEN Templates",
+        "elementType": "STANDARDWBSELEMENT",
+        "handler": {},
+        "indirect": false,
+        "hibernateLazyInitializer": {},
+        "protected": false
+      },
+      "breakdownId": "CUST_1",
+      "standardBreakdownId": "GAS_1",
+      "treeId": 4306,
+      "availableScopeFlag": false,
+      "level": 1,
+      "nodeId": 267047,
+      "leaf": false
+    },
+    "eventId": 4574,
+    "treeId": 4306,
+    "budgetedLaborUnits": 6570,
+    "resourceCount": 193.74470178
+  }
+]
