@@ -34,15 +34,21 @@ function test() {
     return new Array(len).fill(1).map((_, i) => i);
   };
 
-  console.assert(binarySearch(10, testArray(100)) == 10, 'Should be index 10');
-  console.assert(binarySearch(999, testArray(100)) == -1, 'Should be index -1');
-  console.assert(
-    binarySearch(10, testArray(10000000)) === 10,
-    'Should be index 10'
+  console.log(
+    binarySearch(10, testArray(100)) == 10,
+    'Item 10 should be index 10 in 100 member array'
   );
-  console.assert(
+  console.log(
+    binarySearch(999, testArray(100)) == -1,
+    'Item 999 Should be index -1 in 100 member array'
+  );
+  console.log(
+    binarySearch(10, testArray(10000000)) === 10,
+    'Item 10 Should be index 10 in 10000000 member array'
+  );
+  console.log(
     binarySearch(999998, testArray(10000000)) === 999998,
-    'Should be index 999998'
+    'Item 999998 Should be index 999998 in 10000000 member array'
   );
 }
 

@@ -3,7 +3,7 @@ class MinHeap {
     this.heap = [null];
   }
 
-  getMin() {
+  root() {
     return this.heap[1];
   }
 
@@ -33,7 +33,7 @@ class MaxHeap {
     this.heap = [null];
   }
 
-  getMax() {
+  root() {
     return this.heap[1];
   }
 
@@ -44,7 +44,7 @@ class MaxHeap {
       let current = this.heap.length - 1;
       while (
         current > 1 &&
-        this.heap[Math.floor(current / 2)] > this.heap[current]
+        this.heap[Math.floor(current / 2)] < this.heap[current]
       ) {
         this.swap(this.heap, current, Math.floor(current / 2));
         current = Math.floor(current / 2);
@@ -59,38 +59,54 @@ class MaxHeap {
 }
 
 function heapify(arr) {
-  let heap = new Heap();
+  let minHeap = new MinHeap();
+  let maxHeap = new MaxHeap();
 
   arr.forEach((item) => {
-    heap.insert(item);
+    minHeap.insert(item);
   });
 
-  return heap;
+  arr.forEach((item) => {
+    maxHeap.insert(item);
+  });
+
+  return { minHeap, maxHeap };
 }
 
 function test() {
   const scramble = (arr) => {
-    arr.sort((a, b) => {
+    const cloneArr = [...arr];
+    cloneArr.sort((a, b) => {
       return Math.random() * 2 - Math.random() * 2;
     });
-    return arr;
+    return cloneArr;
   };
 
-  const genArray = (len) => {
-    return new Array(len).fill(1).map((_, i) => i);
+  const genArray = (len, shift = 0) => {
+    return new Array(len).fill(1).map((_, i) => i + shift);
   };
 
-  const testArray = scramble(genArray(100));
-  const myHeap = heapify([...testArray]);
+  const orderedArray = genArray(1000, 23);
+  const testArray = scramble(orderedArray);
+  const { minHeap, maxHeap } = heapify([...testArray]);
 
-  console.log(testArray, myHeap.getMin(), myHeap.getMax());
+  console.log(
+    orderedArray[0] === minHeap.root(),
+    'First of ordered array should equal root of min heap'
+  );
+  console.log(
+    orderedArray[orderedArray.length - 1] === maxHeap.root(),
+    'Last of ordered array should equal root of min heap'
+  );
+
+  console.log({ min: minHeap.root(), max: maxHeap.root() });
 }
 
 test();
 
 /* 
 
-Heap indexes
+        Heap indexes
 
              1
          /        \
@@ -99,8 +115,5 @@ Heap indexes
       4   5     6     7
      /\   /\    /\    /\
     8  9 10 11 12 13 14 15
-          
-
-
 
 */
